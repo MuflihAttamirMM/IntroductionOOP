@@ -16,3 +16,9 @@ public :
     }
 }; // batas class
 
+int main(){
+    barang elektronik;
+    elektronik.nama                 = "Laptop Gaming";
+    elektronik.jumlah               = 10;
+    elektronik.kategori             = "Elektronik";
+    elektronik.tanggalProduksi      = "202
