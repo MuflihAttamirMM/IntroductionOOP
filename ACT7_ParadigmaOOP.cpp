@@ -28,3 +28,10 @@ int main(){
     nonElektronik.jumlah            = 10;
     nonElektronik.kategori          = "Furniture";
     nonElektronik.tanggalProduksi   = "2025-03-15";
+
+    cout << "Barang 1 =" <<endl;
+    elektronik.printData();
+    cout << endl;
+    cout << "Barang 2 =" <<endl;
+    nonElektronik.printData();
+}
